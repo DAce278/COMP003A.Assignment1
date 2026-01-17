@@ -106,8 +106,6 @@
             Console.WriteLine("99. I enjoy chemistry");
             Console.WriteLine("100. I've listed 99 items before this one");
 
-            Console.WriteLine("9. ");
-
         }
     }
 }
