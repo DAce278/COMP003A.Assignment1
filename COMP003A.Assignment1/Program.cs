@@ -65,6 +65,16 @@
             Console.WriteLine("58. I have 1 snake");
             Console.WriteLine("59. I have a hard time falling asleep");
             Console.WriteLine("60. I have a hard time staying focused while reading");
+            Console.WriteLine("61. I have a weak stomach");
+            Console.WriteLine("62. I'm fascinated with animals that have especially unique traits, like turtles");
+            Console.WriteLine("63. I enjoy reading until I lose focus");
+            Console.WriteLine("64. I don't like TikTok");
+            Console.WriteLine("65. I don't use TikTok");
+            Console.WriteLine("66. I like learning about psychology");
+            Console.WriteLine("67. I'm not a fan with how AI has been developing recently");
+            Console.WriteLine("68. I don't like partisanship");
+            Console.WriteLine("69. I don't like extreme brand loyalty");
+            Console.WriteLine("70. I'm not a big fan of shows focused on drama");
 
         }
     }
