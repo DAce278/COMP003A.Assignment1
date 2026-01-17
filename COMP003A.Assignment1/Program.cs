@@ -35,6 +35,16 @@
             Console.WriteLine("28. I enjoy just about almost all music except country");
             Console.WriteLine("29. I enjoy driving");
             Console.WriteLine("30. I drive a manual");
+            Console.WriteLine("31. I drive a Honda Civic");
+            Console.WriteLine("32. I enjoy learning about sword techniques");
+            Console.WriteLine("33. I enjoy learning about the strengths and weaknesses of historical weapons");
+            Console.WriteLine("34. I don't really like anime");
+            Console.WriteLine("35. I don't watch too many shows");
+            Console.WriteLine("36. I don't watch too many movies");
+            Console.WriteLine("37. My favorite band in Avenged Sevenfold");
+            Console.WriteLine("38. My favorite genre of music is metal");
+            Console.WriteLine("39. I enjoy playing fighting games especially");
+            Console.WriteLine("40. I enjoy learning how to learn systems in fighting games");
         }
     }
 }
