@@ -95,6 +95,18 @@
             Console.WriteLine("88. I likegames that try to be different");
             Console.WriteLine("89. I find it hard to put all my attention into one thing at once over a long period of time");
             Console.WriteLine("90. I enjoy parkour");
+            Console.WriteLine("91. I'm a heavy sleeper");
+            Console.WriteLine("92. I'm fascinated by art created in unorthodox ways");
+            Console.WriteLine("93. I find language interesting");
+            Console.WriteLine("94. My favorite type of sweet is chocolate");
+            Console.WriteLine("95. I think the Central Valley is an interesting place");
+            Console.WriteLine("96. I've liked cooking for the little time I've done it for");
+            Console.WriteLine("97. I've recently played Hunt: Showdown");
+            Console.WriteLine("98. I like the mnajority of the blue to green spectrum of colors");
+            Console.WriteLine("99. I enjoy chemistry");
+            Console.WriteLine("100. I've listed 99 items before this one");
+
+            Console.WriteLine("9. ");
 
         }
     }
