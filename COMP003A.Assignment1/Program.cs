@@ -85,6 +85,16 @@
             Console.WriteLine("78. I don't care for sports teams all that much");
             Console.WriteLine("79. I enjoy hiking");
             Console.WriteLine("80. I enjoy camping");
+            Console.WriteLine("81. I enjoy puzzles");
+            Console.WriteLine("82. I enjoy optical illusions");
+            Console.WriteLine("83. I like weird geometry and problems involving it");
+            Console.WriteLine("84. I like to learn about historical figures");
+            Console.WriteLine("85. I like challenges");
+            Console.WriteLine("86. I learn best by doing");
+            Console.WriteLine("87. I like creating theory-crafting solutions");
+            Console.WriteLine("88. I likegames that try to be different");
+            Console.WriteLine("89. I find it hard to put all my attention into one thing at once over a long period of time");
+            Console.WriteLine("90. I enjoy parkour");
 
         }
     }
