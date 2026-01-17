@@ -55,6 +55,17 @@
             Console.WriteLine("48. My favorite PvP game is Chivalry 2");
             Console.WriteLine("49. I don't enjoy the battle royale genre");
             Console.WriteLine("50. I don't enjoy most of the extraction shooter genre");
+            Console.WriteLine("51. My favorite number is 12");
+            Console.WriteLine("52. My favorite color is green");
+            Console.WriteLine("53. I prefer cats over dogs");
+            Console.WriteLine("54. My favorite dinosaur is the ankylosaurus");
+            Console.WriteLine("55. I like reptiles");
+            Console.WriteLine("56. I have 2 cats");
+            Console.WriteLine("57. I have 1 dog");
+            Console.WriteLine("58. I have 1 snake");
+            Console.WriteLine("59. I have a hard time falling asleep");
+            Console.WriteLine("60. I have a hard time staying focused while reading");
+
         }
     }
 }
