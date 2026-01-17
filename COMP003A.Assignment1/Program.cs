@@ -15,6 +15,16 @@
             Console.WriteLine("8. I like to learn about space flight");
             Console.WriteLine("9. I like to learn about history");
             Console.WriteLine("10. I don't like remembering exact dates and names");
+            Console.WriteLine("11. I like learning about physics");
+            Console.WriteLine("12. I like learning about nuclear science");
+            Console.WriteLine("13. I like learning about nuclear reactors/facilities");
+            Console.WriteLine("14. I like learning about the medieval period");
+            Console.WriteLine("15. I like learning about wars");
+            Console.WriteLine("16. I like learning about how technologies develop");
+            Console.WriteLine("17. I like learning about medieval martial arts");
+            Console.WriteLine("18. I like learning martial arts");
+            Console.WriteLine("19. I am about 5 foot 6 inches");
+            Console.WriteLine("20. Computers have always been part of my life");
         }
     }
 }
