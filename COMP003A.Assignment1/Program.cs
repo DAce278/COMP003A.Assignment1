@@ -75,6 +75,16 @@
             Console.WriteLine("68. I don't like partisanship");
             Console.WriteLine("69. I don't like extreme brand loyalty");
             Console.WriteLine("70. I'm not a big fan of shows focused on drama");
+            Console.WriteLine("71. I don't care much about shoes");
+            Console.WriteLine("72. I look mostly for comfort in clothes");
+            Console.WriteLine("73. Winter is my favorite season");
+            Console.WriteLine("74. I prefer being cold over being hot");
+            Console.WriteLine("75. I don't play sports");
+            Console.WriteLine("76. I don't watch sports often");
+            Console.WriteLine("77. My favorite sport is basketball");
+            Console.WriteLine("78. I don't care for sports teams all that much");
+            Console.WriteLine("79. I enjoy hiking");
+            Console.WriteLine("80. I enjoy camping");
 
         }
     }
