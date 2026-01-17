@@ -25,6 +25,16 @@
             Console.WriteLine("18. I like learning martial arts");
             Console.WriteLine("19. I am about 5 foot 6 inches");
             Console.WriteLine("20. Computers have always been part of my life");
+            Console.WriteLine("21. I enjoy practical uses of math");
+            Console.WriteLine("22. I enjoy clever uses of math");
+            Console.WriteLine("23. I have 2 older sisters");
+            Console.WriteLine("24. I'm stingy with money");
+            Console.WriteLine("25. I really don't like false dilemmas");
+            Console.WriteLine("26. I like to sleep");
+            Console.WriteLine("27. I like to listen to music");
+            Console.WriteLine("28. I enjoy just about almost all music except country");
+            Console.WriteLine("29. I enjoy driving");
+            Console.WriteLine("30. I drive a manual");
         }
     }
 }
