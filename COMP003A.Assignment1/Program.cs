@@ -45,6 +45,16 @@
             Console.WriteLine("38. My favorite genre of music is metal");
             Console.WriteLine("39. I enjoy playing fighting games especially");
             Console.WriteLine("40. I enjoy learning how to learn systems in fighting games");
+            Console.WriteLine("41. I like learning musical topics");
+            Console.WriteLine("42. I like learning techniques in music");
+            Console.WriteLine("43. I don't know how to play any instruments");
+            Console.WriteLine("44. I think politics are interesting and important");
+            Console.WriteLine("45. I don't like how most people go about when discussing politics");
+            Console.WriteLine("46. My favorite fighting game is 2XKO");
+            Console.WriteLine("47. My favorite horror game is The Outlast Trials");
+            Console.WriteLine("48. My favorite PvP game is Chivalry 2");
+            Console.WriteLine("49. I don't enjoy the battle royale genre");
+            Console.WriteLine("50. I don't enjoy most of the extraction shooter genre");
         }
     }
 }
